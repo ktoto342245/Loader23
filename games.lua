@@ -19,7 +19,7 @@ return {
     },
     ["79546208627805"] = {
         n = "99 Nights in the Forest",
-        url = "https://raw.githubusercontent.com/H4xScripts/Scripts/refs/heads/main/99Nights%20in%20the%20Forst.lua",
+        url = "https://raw.githubusercontent.com/ktoto342245/Scripts23/refs/heads/main/99Nights%20in%20the%20Forst.lua",
         u = 7326934954,
         ["1"] = 4122,
         ["2"] = 3735,
